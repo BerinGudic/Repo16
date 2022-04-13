@@ -1,11 +1,8 @@
-const firstName = firstName => {
+exports.firstName = firstName => {
     return firstName.toUpperCase();
 }
 
-const lastName = lastName => {
+exports.lastName = lastName => {
     return lastName.toLowerCase();
 }
-exports = {
-    firstName,
-    lastName
-};
+
