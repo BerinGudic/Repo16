@@ -1,0 +1,36 @@
+#navbar {
+    list-style-position: outside;
+    border-right: outset;
+}
+
+a {
+    text-decoration: none;
+    color: gray;
+    padding-left: 20px;
+}
+#header-img {
+    list-style-type: none;
+    border-top: ridge 4px;
+}
+.nav-links {
+    list-style-type: none;
+    padding-bottom: 10px;
+    border-top: ridge 1px;
+    border-color: black;
+    padding-top: 10px;
+}
+#header {
+    font-size:xx-large;
+    padding-left: 40px;
+}
+#main-doc {
+    color: gray;
+    padding-left: 30px;
+}
+body {
+    display: flex;
+}
+header {
+    font-size: x-large;
+    color: black;
+}
